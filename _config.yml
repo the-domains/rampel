@@ -1,0 +1,13 @@
+layout_spectrum: 0.3727598
+color:
+  saturation: 0.6972871
+  brandStrength: 0.311828
+  lightness: 0.3870968
+  brandColors:
+    - '#FFFFFF'
+    - '#3F5E7B'
+    - '#647D94'
+    - '#A3B2C0'
+  rhythmicContrast: 0.2293907
+typography_spectrum: 0.6989247
+name: Rampel
