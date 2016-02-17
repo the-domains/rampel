@@ -1,27 +1,29 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T18:35:24.223Z'
-dateModified: '2016-02-17T18:35:11.419Z'
+datePublished: '2016-02-17T18:38:26.862Z'
+dateModified: '2016-02-17T18:38:23.849Z'
 title: Contact us
 author: []
+sourcePath: _posts/2016-02-17-contact-us.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-contact-us.md
-published: true
 url: contact-us/index.html
-_type: Article
+_type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e984da96-8774-44bd-863b-a0ddbb79ccee.jpg)
+
 hello@rampel.hu
 
 Twitter: https://twitter.com/RampelCo 
